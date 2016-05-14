@@ -2,6 +2,7 @@ package project;
 
 import java.util.Random;
 import java.util.Arrays;
+impoet java.test
 
 public class LottoGenerator {
     
